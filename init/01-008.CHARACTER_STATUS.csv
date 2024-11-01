@@ -1,0 +1,6 @@
+NAME,DESCRIPTION
+Alive,Character is active
+Banished,Character has been banished from the city
+Dead,The character is dead
+Imprisoned,The character has been imprisoned
+Missing,Location and status unknown
